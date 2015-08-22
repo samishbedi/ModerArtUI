@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArtUI</string>
+    <string name="title_activity_main">Modern Art UI</string>
+
+    <string name="action_more_information">More Information</string>
+    <string name="dialog_message">Click  below to learn more</string>
+    <string name="dialog_title">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson</string>
+    <string name="ok">Visit MOMA</string>
+    <string name="cancel">Not Now</string>
+    <string name="title_activity_moma_web">MomaWebActivity</string>
+
+</resources>
